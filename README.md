@@ -3,4 +3,5 @@ This repository contains logos and suggested css frameworks for Incuvate CU Boul
 
 # Colors
 CU Gold: #cfb87c
+
 To maintain acceptable color contrast, the CU Gold should only be used with black, not with white. For instance, a gold button should have black text. 
